@@ -123,4 +123,5 @@ return [
         'store' => env('APP_MAINTENANCE_STORE', 'database'),
     ],
 
+    'central_domain' => env('APP_CENTRAL_DOMAIN', 'checkpoint.test')
 ];
